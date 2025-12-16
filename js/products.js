@@ -1,4 +1,3 @@
-
 function filterProducts(brand) {
     // 1. هات كل الكروت (المنتجات)
     const allProducts = document.querySelectorAll('.card');
